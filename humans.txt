@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+other team members Jason Taylor
 
 # THANKS
 
