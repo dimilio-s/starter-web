@@ -1,6 +1,7 @@
 # Starter Web Repo
-encancements
-This repository is for showing how Git and GitHub work
+enhancements
+This repository is for showing how Git and GitHub work.
+Adding a line for rebasing example.
 ## Introduction
 this is introduction
 ## Purpose
