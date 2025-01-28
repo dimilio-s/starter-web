@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 this is info about deployment
 ## How to Contribute
 this is how to contribute
+
+2025 Git Training
