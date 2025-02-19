@@ -13,3 +13,4 @@ this is info about deployment
 this is how to contribute
 Please text mpla mpla mpla mpla
 2025 Git Training
+adding a line on 19/02/25
